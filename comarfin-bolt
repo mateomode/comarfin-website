@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Initial commit - Comarfin website"
 git branch -M main
-git remote add origin https://github.com/TU-USUARIO/comarfin-website.git
+git remote add origin https://github.com/mateomode/comarfin-website.git
 git push -u origin main
